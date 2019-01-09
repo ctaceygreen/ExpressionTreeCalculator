@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeCalculator", "ExpressionTreeCalculator\ExpressionTreeCalculator.csproj", "{B08CA1E9-3202-49A6-B440-8B643B2692AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeCalculatorTests", "ExpressionTreeCalculatorTests\ExpressionTreeCalculatorTests.csproj", "{B7A1517E-4DAA-4ECB-A207-1912E7AD9F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08CA1E9-3202-49A6-B440-8B643B2692AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08CA1E9-3202-49A6-B440-8B643B2692AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08CA1E9-3202-49A6-B440-8B643B2692AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08CA1E9-3202-49A6-B440-8B643B2692AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A1517E-4DAA-4ECB-A207-1912E7AD9F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A1517E-4DAA-4ECB-A207-1912E7AD9F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A1517E-4DAA-4ECB-A207-1912E7AD9F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A1517E-4DAA-4ECB-A207-1912E7AD9F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63047D1E-4948-4FEB-8BE2-2051A936E020}
+	EndGlobalSection
+EndGlobal
